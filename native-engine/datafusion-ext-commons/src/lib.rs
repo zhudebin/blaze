@@ -31,6 +31,8 @@ pub mod hadoop_fs;
 pub mod io;
 pub mod rdxsort;
 pub mod slim_bytes;
+pub mod spark_bit_array;
+pub mod spark_bloom_filter;
 pub mod spark_hash;
 pub mod streams;
 pub mod uda;
